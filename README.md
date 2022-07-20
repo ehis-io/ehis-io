@@ -6,7 +6,6 @@
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
 I'm a Smart Contract/Blockchain Software Engineer, Programming instructor  at Junior Tech Africa.
-<!and founder and CEO of [Dutchman Network](https://www.dutchmannetwork.io/)>
 
 I'm an enthusiast of Blockchain technology, Security Engineering, Networking, Electronics, Financial Analysis, Audio Engineering and Astrophysics.
 
