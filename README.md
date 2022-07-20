@@ -13,13 +13,7 @@ I'm an enthusiast of Blockchain technology, Security Engineering, Networking, El
 
 #### Github Stats 📊
 
-[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=PatrickAlphaC)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!Be sure to join the [Chainlink](https://discord.gg/2YHSAey) discord!>
 
 
-### Stack Overflow & Stack Exchange Stats
-
-
-<a href="https://stackexchange.com/users/25141557/ehis-io"><img src="https://www.gravatar.com/avatar/8e523560b2a33b6496e28e1b5e83876f?s=128&d=identicon&r=PG' width="208" height="58" alt="profile for Ehis Fidelis on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ehis Fidelis on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
