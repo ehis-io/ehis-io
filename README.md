@@ -7,9 +7,12 @@
 [![EHis Fidelis StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/edit/18987856)
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
-I am a Software Engineer. I have projects both in Web2 and Web3 space. I am a Volunteer Programming instructor  at Junior Tech Africa.
+I am a Software Engineer.
+Beyond the code, I am deeply passionate about staying at the forefront of technology trends and continuously improving my skills. I enjoys taking up challenges and learning new programming languages or frameworks to expand my expertise.
 
 I'm an enthusiast of Blockchain technology, Security Engineering, Networking, Electronics, Financial Analysis, Audio Engineering and Physics.
+
+I am also Volunteer Programming instructor  at Junior Tech Africa.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehis-io&label=Profile%20views&color=0e75b6&style=flat" alt="ehis-io" /> </p>
