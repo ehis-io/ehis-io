@@ -9,7 +9,7 @@
 
 I am a Software Engineer. I have projects both in Web2 and Web3 space. I am a Volunteer Programming instructor  at Junior Tech Africa.
 
-I'm an enthusiast of Blockchain technology, Security Engineering, Networking, Electronics, Financial Analysis, Audio Engineering and Astrophysics.
+I'm an enthusiast of Blockchain technology, Security Engineering, Networking, Electronics, Financial Analysis, Audio Engineering and Physics.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehis-io&label=Profile%20views&color=0e75b6&style=flat" alt="ehis-io" /> </p>
