@@ -8,7 +8,7 @@
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
 I am a Software Engineer.
-Beyond the code, I am deeply passionate about continuously improving my skills. I enjoy taking up challenges and learning new programming languages or frameworks to expand my expertise.
+Beyond the code, I am deeply passionate about continuously improving my skills. I enjoy taking up challenges and learning new programming languages and frameworks to expand my expertise.
 
 I'm an enthusiast of Blockchain technology, Security Engineering, Networking, Electronics, Financial Analysis, Audio Engineering and Physics.
 
