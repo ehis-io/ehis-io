@@ -7,9 +7,7 @@
 [![EHis Fidelis StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/edit/18987856)
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
-I am a Software Engineer.
-Beyond the code, I am deeply passionate about continuously improving my skills. I enjoy taking up challenges and learning new programming languages and frameworks to expand my expertise.
-
+I’m a Software Engineer dedicated to designing systems that work reliably under pressure. I enjoy tackling complex problems, improving architectures, and experimenting with new technologies to create practical, well-crafted solutions.
 I'm an enthusiast of Blockchain technology, Security Engineering, Networking, Electronics, Financial Analysis, Audio Engineering and Physics.
 
 I am also a Volunteer Programming instructor  at Junior Tech Africa.
